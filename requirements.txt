@@ -1,0 +1,6 @@
+telethon
+yt-dlp
+qrcode
+pillow
+psutil
+requests
